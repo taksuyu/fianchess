@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=fianchess
+Exec=fianchess
+Icon=net.taksuyu.fianchess
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
